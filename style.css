@@ -1058,7 +1058,7 @@ max-width: 38%;
 	}
 	
 	.footer__social--content {
-		font-size: 13px;
+		font-size: 12px;
 	}
 		/*intro*/
 		.intro {
@@ -1105,6 +1105,9 @@ max-width: 38%;
 }
 
 @media (max-width: 325px) {
+	.footer__social--content {
+		font-size: 10px;
+	}
 	/*footer*/ 
 	.footer__logo {
 	       font-size: 18px;
