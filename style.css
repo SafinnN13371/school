@@ -1051,7 +1051,14 @@ max-width: 38%;
 @media (max-width: 575px) {
 	/*footer*/ 
 	.footer__logo {
-	       font-size: 20px;
+	       font-size: 18px;
+	}
+	.footer__text {
+		font-size: 12px;
+	}
+	
+	.footer__social--content {
+		font-size: 13px;
 	}
 		/*intro*/
 		.intro {
