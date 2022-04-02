@@ -975,6 +975,10 @@ max-width: 38%;
 }
 
 @media (max-width: 770px) {
+	/*footer*/ 
+	.footer__logo {
+	       font-size: 28px;
+	}
 	/*intro*/
 	.intro {
 		min-height: 650px;
@@ -1045,6 +1049,10 @@ max-width: 38%;
 
 
 @media (max-width: 575px) {
+	/*footer*/ 
+	.footer__logo {
+	       font-size: 24px;
+	}
 		/*intro*/
 		.intro {
 			
@@ -1076,6 +1084,10 @@ max-width: 38%;
 		}
 }
 @media (max-width: 470px) {
+	/*footer*/ 
+	.footer__logo {
+	       font-size: 20px;
+	}
 		/*intro*/
 	.intro__suptitle{
 			font-size: 40px;
@@ -1086,6 +1098,10 @@ max-width: 38%;
 }
 
 @media (max-width: 325px) {
+	/*footer*/ 
+	.footer__logo {
+	       font-size: 18px;
+	}
 	/*intro*/
 	.intro__suptitle{
 			font-size: 40px;
