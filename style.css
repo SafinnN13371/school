@@ -835,7 +835,7 @@ max-width: 38%;
 	font-size: 24px;
 	font-weight: 700;
 	padding: 3px;
-	transition: all .12s linear;
+	transition: all .2s linear;
 }
 .map__title a {
 	color: inherit;
