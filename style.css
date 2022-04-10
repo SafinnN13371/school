@@ -844,7 +844,7 @@ max-width: 38%;
 	transition: border .1s linear;
 	
 }
-.map__title a:hover {
+.map__title:hover {
 	border: 2px solid #51a4c0;
 }
 /*footer*/
