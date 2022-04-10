@@ -834,6 +834,7 @@ max-width: 38%;
 	color: #51a4c0;
 	font-size: 24px;
 	font-weight: 700;
+	padding: 3px;
 }
 .map__title a {
 	color: inherit;
