@@ -844,10 +844,7 @@ max-width: 38%;
 	
 }
 .map__title a:hover {
-	border-radius: 2px solid #51a4c0;
-}
-.map__title:hover {
-	border-radius: 2px solid #51a4c0;
+	border: 2px solid #51a4c0;
 }
 /*footer*/
 .footer {
