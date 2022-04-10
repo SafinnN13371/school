@@ -846,9 +846,8 @@ max-width: 38%;
 .map__title a:hover {
 	border-radius: 2px solid #51a4c0;
 }
-/*Затемниение карты!!!*/
-.map__title a:hover .map__title a:hover {
-	background: red;	
+.map__title:hover {
+	border-radius: 2px solid #51a4c0;
 }
 /*footer*/
 .footer {
