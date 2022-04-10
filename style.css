@@ -835,6 +835,7 @@ max-width: 38%;
 	font-size: 24px;
 	font-weight: 700;
 	padding: 3px;
+	transition: border .1s linear;
 }
 .map__title a {
 	color: inherit;
@@ -843,7 +844,7 @@ max-width: 38%;
 	transition: border .1s linear;
 	
 }
-.map__title a:hover {
+.map__title:hover {
 	border: 2px solid #51a4c0;
 }
 /*footer*/
